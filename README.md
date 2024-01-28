@@ -7,7 +7,7 @@
 Перш за все, вам потрібно клонувати цей репозиторій:
 
 ```bash
-git clone https://github.com/yourusername/task-manager.git
+git clone https://github.com/OleksiiMaslak/task-management-app.git
 
 Потім перейдіть до каталогу проекту:
 
