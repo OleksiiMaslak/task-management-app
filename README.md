@@ -11,7 +11,7 @@ git clone https://github.com/OleksiiMaslak/task-management-app.git
 
 Потім перейдіть до каталогу проекту:
 
-cd task-manager
+cd task-management-app
 
 Встановіть залежності:
 
